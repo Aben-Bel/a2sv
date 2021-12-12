@@ -1,22 +1,4 @@
 
-
-Codeforces
-| In English По-русски
-aben | Logout
-
-    
-HOMETOPCONTESTSGYMPROBLEMSETGROUPSRATINGEDUAPICALENDARHELPDELTIX ROUNDS 2021 
-
-
-PROBLEMSSUBMIT CODEMY SUBMISSIONSSTATUSHACKSROOMSTANDINGSCUSTOM INVOCATION
-    
-General
-  
-#	Author	Problem	Lang	Verdict	Time	Memory	Sent	Judged	 	 
-138492048	Practice:
-aben	50A - 14	Java 11	Accepted	340 ms	0 KB	2021-12-09 05:02:57	2021-12-09 05:02:57	Add to favourites	Compare
-  
-→ SourceCopy
 import java.io.*;
 import java.util.*;
  
